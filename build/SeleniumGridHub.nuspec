@@ -7,6 +7,7 @@
     <authors>gregjhogan</authors>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
     <projectUrl>https://github.com/gregjhogan/selenium-grid-hub-site-extension</projectUrl>
+    <iconUrl>http://www.seleniumhq.org/images/selenium-grid-logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Azure web app site extension that runs a Selenium-Grid hub</description>
     <tags>selenium grid hub</tags>
