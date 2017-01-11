@@ -3,7 +3,7 @@
   <metadata>
     <id>SeleniumGridHub</id>
     <title>Selenium-Grid Hub</title>
-    <version>3.0.1</version>
+    <version>0.0.2</version>
     <authors>gregjhogan</authors>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
     <projectUrl>https://github.com/gregjhogan/selenium-grid-hub-site-extension</projectUrl>
