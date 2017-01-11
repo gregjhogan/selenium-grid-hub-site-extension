@@ -6,7 +6,7 @@
                 <add name="httpPlatformHandler" path="*" verb="*" modules="httpPlatformHandler" resourceType="Unspecified" xdt:Transform="InsertIfMissing" />
             </handlers>
             <httpPlatform processPath="%JAVA_HOME%\bin\java.exe"
-                          arguments="-Djava.net.preferIPv4Stack=true -jar %HOME%\site\wwwroot\selenium-server-standalone-2.52.0.jar -role hub -port %HTTP_PLATFORM_PORT%"
+                          arguments="-Djava.net.preferIPv4Stack=true -jar %HOME%\site\wwwroot\selenium-server-standalone-3.0.1.jar -role hub -port %HTTP_PLATFORM_PORT%"
                           startupTimeLimit="32"
                           startupRetryCount="8"
                           stdoutLogEnabled="true"
