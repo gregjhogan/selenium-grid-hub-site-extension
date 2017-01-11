@@ -3,11 +3,11 @@
   <metadata>
     <id>SeleniumGridHub</id>
     <title>Selenium-Grid Hub</title>
-    <version>0.0.1</version>
+    <version>3.0.1</version>
     <authors>gregjhogan</authors>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
     <projectUrl>https://github.com/gregjhogan/selenium-grid-hub-site-extension</projectUrl>
-    <iconUrl>http://www.seleniumhq.org/images/selenium-grid-logo.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/SeleniumHQ/www.seleniumhq.org/51d90ab04a2ae9168f3be524d1c2f88a31fd648e/src/main/webapp/images/selenium-grid-logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Azure web app site extension that runs a Selenium-Grid hub</description>
     <tags>selenium grid hub</tags>
